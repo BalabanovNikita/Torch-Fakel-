@@ -1,0 +1,5 @@
+names:
+- defect
+nc: 1
+train: good/
+val: good/

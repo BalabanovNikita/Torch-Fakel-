@@ -1,0 +1,8 @@
+path: ./
+
+names:
+- defect
+nc: 1
+train: defects/
+val: defects/
+detect: defects/

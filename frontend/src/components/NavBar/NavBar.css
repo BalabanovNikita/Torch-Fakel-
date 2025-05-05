@@ -1,0 +1,25 @@
+.nav-bar {
+    background-color: var(--navbav-background-color);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 4rem;
+    align-items: center;
+    gap: 1rem;
+}
+
+.logo-container {
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+}
+
+.nav-buttons {
+    font-size: 3rem !important;
+    color: var(--color-secondary);
+    width: 100%;
+}
+
+.active {
+    border-left: 5px solid var(--color-secondary) !important;
+    border-radius: 0 !important;
+}
